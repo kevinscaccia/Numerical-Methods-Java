@@ -1,1 +1,1 @@
-# NumericalMethodsJava
+# Practical Numerical Methods with Java
