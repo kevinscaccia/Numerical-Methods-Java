@@ -1,6 +1,6 @@
 # Practical Numerical Methods with Java
 
-### -- Root Finding Algorithms
+### -- Root Finding Algorithms (with plot examples)
 #### [Bisection Method][Root1]
 #### [Newton Raphson Method][Root2]
 #### [Secant Method][Root3]
